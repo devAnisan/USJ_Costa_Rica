@@ -9,10 +9,12 @@ const BookCard = ({ title, author, date }) => {
   };
   const styles = {
     card: {
+        color: "#fff",
       width: "250px",
       padding: "15px",
       borderRadius: "10px",
-      backgroundColor: "#f9f9f9",
+      backgroundColor: "#0A192F",
+      border: "1px solid #64FFDA",
       boxShadow: "2px 2px 10px rgba(0,0,0,0.1)",
       textAlign: "center",
       margin: "10px",

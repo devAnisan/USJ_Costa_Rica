@@ -1,4 +1,8 @@
 const headerStyles = {
+    main: {
+        backgroundColor: "#081426",
+        color: "#fff"
+    },
     header: {
         display: "flex",
         justifyContent: "space-between",
